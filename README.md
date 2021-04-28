@@ -28,6 +28,7 @@
 ## Find me at:
 [![Twitter](https://img.shields.io/badge/Twitter-@iblazquez_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/iblazquez_dev)
 
+[![Web](https://img.shields.io/badge/web-isaacblazquez.es-1DA1F2?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://isaacblazquez.es)
 
 <!---
 isaacblazquez/isaacblazquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
