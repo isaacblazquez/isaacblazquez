@@ -25,9 +25,7 @@
 [![MySQL](https://img.shields.io/badge/MYSQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 ## Find me at:
-[![Twitter](https://img.shields.io/badge/Twitter-@iblazquez_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/iblazquez_dev)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Blazquez-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-blázquez-lópez-b321ab25/)
+[![Twitter](https://img.shields.io/badge/Twitter-@iblazquez_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/iblazquez_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Blazquez-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/isaac-blázquez-lópez-b321ab25/)
 
 [![Web](https://img.shields.io/badge/web-isaacblazquez.es-1DA1F2?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://isaacblazquez.es)
 
