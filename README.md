@@ -27,7 +27,7 @@
 ## Find me at:
 [![Twitter](https://img.shields.io/badge/Twitter-@iblazquez_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/iblazquez_dev)
 
-[![LinkedIn](https://img.shields.io/badge/Twitter-@iblazquez_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/iblazquez_dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac Blazquez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/iblazquez_dev)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac Blazquez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-bl%C3%A1zquez-l%C3%B3pez-b321ab25/)
 
