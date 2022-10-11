@@ -24,6 +24,8 @@
 <br>
 [![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
+ [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+
 
 ## Find me at:
 [![Twitter](https://img.shields.io/badge/Twitter-@iblazquez_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/iblazquez_dev)
